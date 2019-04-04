@@ -7,14 +7,14 @@ def array_with_two_elements
   return arr
 end
 
-def first_element_with_array(arr)
+def first_element(arr)
   return arr.first()
 end
 
-def third_element_with_array(arr)
+def third_element(arr)
   return arr[2]
 end
 
-def last_element_with_array(arr)
+def last_element(arr)
   return arr.last()
 end
